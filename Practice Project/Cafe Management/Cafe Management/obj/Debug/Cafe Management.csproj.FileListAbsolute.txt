@@ -1,0 +1,12 @@
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\bin\Debug\Cafe Management.exe.config
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\bin\Debug\Cafe Management.exe
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\bin\Debug\Cafe Management.pdb
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe Management.csproj.AssemblyReference.cache
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe_Management.Form1.resources
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe_Management.Properties.Resources.resources
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe_Management.RegisterForm.resources
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe Management.csproj.GenerateResource.cache
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe Management.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe Management.exe
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe Management.pdb
+E:\C_Sharp\Projects\Cafe Management\Cafe Management\obj\Debug\Cafe Management.exe.config
