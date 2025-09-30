@@ -1,0 +1,16 @@
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+E:\C_Sharp\Lab\Lab_2\First\Lab_2\Lab_2\obj\Debug\Lab_2.exe.config
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\obj\Debug\Lab_2.exe.config
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+E:\C_Sharp\Lab\Lab\Lab_2\First_Code\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

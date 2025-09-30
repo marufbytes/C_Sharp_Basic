@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Class\\Class\\Class_5\\ClassApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A32967-6238-44A6-9A4B-731E4869DDFC}|ClassApp\\Car.csproj|e:\\c_sharp\\class\\class\\class_5\\classapp\\classapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A32967-6238-44A6-9A4B-731E4869DDFC}|ClassApp\\Car.csproj|solutionrelative:classapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Class\\Class\\Class_5\\ClassApp\\ClassApp\\Car.cs",
+              "RelativeDocumentMoniker": "ClassApp\\Car.cs",
+              "ToolTip": "E:\\C_Sharp\\Class\\Class\\Class_5\\ClassApp\\ClassApp\\Car.cs",
+              "RelativeToolTip": "ClassApp\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:29:17.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

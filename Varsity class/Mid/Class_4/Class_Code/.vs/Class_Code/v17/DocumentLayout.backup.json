@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Class\\Class\\Class_4\\Class_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B248655B-43BF-4955-B1BE-FD0991BB94FD}|Class_Code\\Class_Code.csproj|e:\\c_sharp\\class\\class\\class_4\\class_code\\class_code\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B248655B-43BF-4955-B1BE-FD0991BB94FD}|Class_Code\\Class_Code.csproj|solutionrelative:class_code\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B248655B-43BF-4955-B1BE-FD0991BB94FD}|Class_Code\\Class_Code.csproj|E:\\C_Sharp\\Class\\Class\\Class_4\\Class_Code\\class_code\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B248655B-43BF-4955-B1BE-FD0991BB94FD}|Class_Code\\Class_Code.csproj|solutionrelative:class_code\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Class\\Class\\Class_4\\Class_Code\\Class_Code\\Main.cs",
+              "RelativeDocumentMoniker": "Class_Code\\Main.cs",
+              "ToolTip": "E:\\C_Sharp\\Class\\Class\\Class_4\\Class_Code\\Class_Code\\Main.cs*",
+              "RelativeToolTip": "Class_Code\\Main.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:47:59.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Class\\Class\\Class_4\\Class_Code\\Class_Code\\Car.cs",
+              "RelativeDocumentMoniker": "Class_Code\\Car.cs",
+              "ToolTip": "E:\\C_Sharp\\Class\\Class\\Class_4\\Class_Code\\Class_Code\\Car.cs",
+              "RelativeToolTip": "Class_Code\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:32:16.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

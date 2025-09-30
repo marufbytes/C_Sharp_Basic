@@ -1,0 +1,7 @@
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\bin\Debug\ClassApp.exe.config
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\bin\Debug\ClassApp.exe
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\bin\Debug\ClassApp.pdb
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\obj\Debug\Car.csproj.AssemblyReference.cache
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\obj\Debug\Car.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\obj\Debug\ClassApp.exe
+E:\C_Sharp\Class\Class\Class_5\ClassApp\ClassApp\obj\Debug\ClassApp.pdb

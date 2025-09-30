@@ -1,0 +1,8 @@
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\bin\Debug\Enum.exe.config
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\bin\Debug\Enum.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\bin\Debug\Enum.pdb
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\obj\Debug\Enum.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\obj\Debug\Enum.pdb
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Enum\Enum\obj\Debug\Enum.exe.config

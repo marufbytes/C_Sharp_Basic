@@ -1,0 +1,7 @@
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\bin\Debug\Lab_1_Task.exe.config
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\bin\Debug\Lab_1_Task.exe
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\bin\Debug\Lab_1_Task.pdb
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\obj\Debug\Lab_1_Task.csproj.AssemblyReference.cache
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\obj\Debug\Lab_1_Task.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\obj\Debug\Lab_1_Task.exe
+E:\C_Sharp\Lab\Lab\Lab_1\Task\Lab_1_Task\Lab_1_Task\obj\Debug\Lab_1_Task.pdb

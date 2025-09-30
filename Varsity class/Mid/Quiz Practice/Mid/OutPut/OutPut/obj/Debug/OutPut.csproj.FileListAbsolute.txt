@@ -1,0 +1,7 @@
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\bin\Debug\OutPut.exe.config
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\bin\Debug\OutPut.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\bin\Debug\OutPut.pdb
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\obj\Debug\OutPut.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\obj\Debug\OutPut.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\obj\Debug\OutPut.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\OutPut\obj\Debug\OutPut.pdb

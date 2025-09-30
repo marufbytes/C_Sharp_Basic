@@ -1,0 +1,7 @@
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\obj\Debug\Access Modifier 2.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\obj\Debug\Access Modifier 2.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\bin\Debug\Access Modifier 2.exe.config
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\bin\Debug\Access Modifier 2.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\bin\Debug\Access Modifier 2.pdb
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\obj\Debug\Access Modifier 2.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\Access Modifier 2\Access Modifier 2\obj\Debug\Access Modifier 2.pdb

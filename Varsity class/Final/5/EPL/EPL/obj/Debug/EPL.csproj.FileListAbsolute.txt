@@ -1,0 +1,13 @@
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\bin\Debug\EPL.exe.config
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\bin\Debug\EPL.exe
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\bin\Debug\EPL.pdb
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.Form1.resources
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.Properties.Resources.resources
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.ShowAll.resources
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.csproj.GenerateResource.cache
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.exe
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.pdb
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.exe.config
+E:\C_Sharp\Varsity class\Final\5\EPL\EPL\obj\Debug\EPL.Form2.resources

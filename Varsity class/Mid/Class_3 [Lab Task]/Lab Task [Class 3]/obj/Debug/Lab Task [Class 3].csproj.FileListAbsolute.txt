@@ -1,0 +1,16 @@
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\bin\Debug\Lab Task [Class 3].exe.config
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\bin\Debug\Lab Task [Class 3].exe
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\bin\Debug\Lab Task [Class 3].pdb
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].csproj.AssemblyReference.cache
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].exe
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].pdb
+E:\C_Sharp\Class\Lab Task [Class 3]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].exe.config
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\bin\Debug\Lab Task [Class 3].exe.config
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\bin\Debug\Lab Task [Class 3].exe
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\bin\Debug\Lab Task [Class 3].pdb
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].exe.config
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].exe
+E:\C_Sharp\Varsity class\Class\Class_3 [Lab Task]\Lab Task [Class 3]\obj\Debug\Lab Task [Class 3].pdb

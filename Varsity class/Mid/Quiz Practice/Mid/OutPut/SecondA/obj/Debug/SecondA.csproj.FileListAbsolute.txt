@@ -1,0 +1,2 @@
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\SecondA\obj\Debug\SecondA.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Mid\OutPut\SecondA\obj\Debug\SecondA.csproj.CoreCompileInputs.cache

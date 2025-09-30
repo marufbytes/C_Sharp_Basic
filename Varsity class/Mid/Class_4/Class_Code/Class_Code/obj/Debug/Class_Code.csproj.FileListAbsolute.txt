@@ -1,0 +1,7 @@
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\bin\Debug\Class_Code.exe.config
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\bin\Debug\Class_Code.exe
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\bin\Debug\Class_Code.pdb
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\obj\Debug\Class_Code.csproj.AssemblyReference.cache
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\obj\Debug\Class_Code.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\obj\Debug\Class_Code.exe
+E:\C_Sharp\Class\Class\Class_4\Class_Code\Class_Code\obj\Debug\Class_Code.pdb

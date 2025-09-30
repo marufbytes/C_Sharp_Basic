@@ -1,0 +1,7 @@
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\bin\Debug\Structure.exe.config
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\bin\Debug\Structure.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\bin\Debug\Structure.pdb
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\obj\Debug\Structure.exe
+E:\C_Sharp\Varsity class\Class\Quiz Practice\Structure\Structure\obj\Debug\Structure.pdb

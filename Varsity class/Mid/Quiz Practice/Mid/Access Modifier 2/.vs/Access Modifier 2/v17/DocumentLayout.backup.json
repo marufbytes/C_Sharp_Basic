@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Varsity class\\Class\\Quiz Practice\\Mid\\Access Modifier 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E5B8B2-B946-47E5-98C0-D45730664AD3}|Access Modifier 2\\Access Modifier 2.csproj|e:\\c_sharp\\varsity class\\class\\quiz practice\\mid\\access modifier 2\\access modifier 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E5B8B2-B946-47E5-98C0-D45730664AD3}|Access Modifier 2\\Access Modifier 2.csproj|solutionrelative:access modifier 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Varsity class\\Class\\Quiz Practice\\Mid\\Access Modifier 2\\Access Modifier 2\\Program.cs",
+              "RelativeDocumentMoniker": "Access Modifier 2\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Varsity class\\Class\\Quiz Practice\\Mid\\Access Modifier 2\\Access Modifier 2\\Program.cs*",
+              "RelativeToolTip": "Access Modifier 2\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:04:40.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

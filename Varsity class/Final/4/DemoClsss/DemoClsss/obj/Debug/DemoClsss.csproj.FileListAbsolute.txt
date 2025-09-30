@@ -1,0 +1,14 @@
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.Form1.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.Form2.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.Form3.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.Form4.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.Properties.Resources.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.csproj.GenerateResource.cache
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\bin\Debug\DemoClsss.exe.config
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\bin\Debug\DemoClsss.exe
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\bin\Debug\DemoClsss.pdb
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.exe
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.pdb
+E:\C_Sharp\Varsity class\Final\4\DemoClsss\DemoClsss\obj\Debug\DemoClsss.exe.config

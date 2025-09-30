@@ -1,0 +1,15 @@
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+E:\C_Sharp\Lab\Lab_1\First\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\obj\Debug\Lab_1.exe.config
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+E:\C_Sharp\Lab\Lab\Lab_1\First_Code\Lab_1\Lab_1\obj\Debug\Lab_1.pdb

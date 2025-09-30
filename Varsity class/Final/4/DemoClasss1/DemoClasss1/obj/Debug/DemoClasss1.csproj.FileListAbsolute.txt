@@ -1,0 +1,11 @@
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\bin\Debug\DemoClasss1.exe.config
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\bin\Debug\DemoClasss1.exe
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\bin\Debug\DemoClasss1.pdb
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.csproj.AssemblyReference.cache
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.Form1.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.Form2.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.Properties.Resources.resources
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.csproj.GenerateResource.cache
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.exe
+E:\C_Sharp\Varsity class\Final\4\DemoClasss1\DemoClasss1\obj\Debug\DemoClasss1.pdb

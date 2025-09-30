@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Varsity class\\Class\\Class_4\\Class Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA7C250-3D4F-40A3-8682-941D57E1F61C}|Class Code\\Multi Class.csproj|E:\\C_Sharp\\Varsity class\\Class\\Class_4\\Class Code\\class code\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA7C250-3D4F-40A3-8682-941D57E1F61C}|Class Code\\Multi Class.csproj|solutionrelative:class code\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA7C250-3D4F-40A3-8682-941D57E1F61C}|Class Code\\Multi Class.csproj|e:\\c_sharp\\varsity class\\class\\class_4\\class code\\class code\\multi_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA7C250-3D4F-40A3-8682-941D57E1F61C}|Class Code\\Multi Class.csproj|solutionrelative:class code\\multi_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Multi_Class.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Varsity class\\Class\\Class_4\\Class Code\\Class Code\\Multi_Class.cs",
+              "RelativeDocumentMoniker": "Class Code\\Multi_Class.cs",
+              "ToolTip": "E:\\C_Sharp\\Varsity class\\Class\\Class_4\\Class Code\\Class Code\\Multi_Class.cs",
+              "RelativeToolTip": "Class Code\\Multi_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:01:35.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Varsity class\\Class\\Class_4\\Class Code\\Class Code\\Message.cs",
+              "RelativeDocumentMoniker": "Class Code\\Message.cs",
+              "ToolTip": "E:\\C_Sharp\\Varsity class\\Class\\Class_4\\Class Code\\Class Code\\Message.cs",
+              "RelativeToolTip": "Class Code\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:27:26.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
