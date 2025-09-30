@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Basic\\Complex Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A910B9-3739-49F3-86C0-04368134BD9A}|Complex Arrays\\Complex Arrays.csproj|e:\\c_sharp\\basic\\complex arrays\\complex arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A910B9-3739-49F3-86C0-04368134BD9A}|Complex Arrays\\Complex Arrays.csproj|solutionrelative:complex arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Basic\\Complex Arrays\\Complex Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Complex Arrays\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Basic\\Complex Arrays\\Complex Arrays\\Program.cs",
+              "RelativeToolTip": "Complex Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:01:57.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

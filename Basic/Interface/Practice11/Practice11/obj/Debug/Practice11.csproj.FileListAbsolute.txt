@@ -1,0 +1,8 @@
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\bin\Debug\Practice11.exe.config
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\bin\Debug\Practice11.exe
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\bin\Debug\Practice11.pdb
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\obj\Debug\Practice11.csproj.AssemblyReference.cache
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\obj\Debug\Practice11.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\obj\Debug\Practice11.exe
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\obj\Debug\Practice11.pdb
+E:\C_Sharp\Basic\Interface\Practice11\Practice11\obj\Debug\Practice11.exe.config

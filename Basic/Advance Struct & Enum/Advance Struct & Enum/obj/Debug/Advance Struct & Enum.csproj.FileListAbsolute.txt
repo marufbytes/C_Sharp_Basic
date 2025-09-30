@@ -1,0 +1,8 @@
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\bin\Debug\Advance Struct & Enum.exe.config
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\bin\Debug\Advance Struct & Enum.exe
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\bin\Debug\Advance Struct & Enum.pdb
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\obj\Debug\Advance Struct & Enum.csproj.AssemblyReference.cache
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\obj\Debug\Advance Struct & Enum.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\obj\Debug\Advance Struct & Enum.exe
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\obj\Debug\Advance Struct & Enum.pdb
+E:\C_Sharp\Basic\Advance Struct & Enum\Advance Struct & Enum\obj\Debug\Advance Struct & Enum.exe.config

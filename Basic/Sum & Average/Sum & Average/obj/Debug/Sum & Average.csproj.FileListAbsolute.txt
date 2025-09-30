@@ -1,0 +1,8 @@
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\bin\Debug\Sum & Average.exe.config
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\bin\Debug\Sum & Average.exe
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\bin\Debug\Sum & Average.pdb
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\obj\Debug\Sum & Average.csproj.AssemblyReference.cache
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\obj\Debug\Sum & Average.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\obj\Debug\Sum & Average.exe
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\obj\Debug\Sum & Average.pdb
+E:\C_Sharp\Basic\Sum & Average\Sum & Average\obj\Debug\Sum & Average.exe.config

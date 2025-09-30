@@ -1,0 +1,7 @@
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\bin\Debug\Practice#.exe.config
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\bin\Debug\Practice#.exe
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\bin\Debug\Practice#.pdb
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\obj\Debug\Practice#.csproj.AssemblyReference.cache
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\obj\Debug\Practice#.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\obj\Debug\Practice#.exe
+E:\C_Sharp\Basic\Assiciation\Practice#\Practice#\obj\Debug\Practice#.pdb

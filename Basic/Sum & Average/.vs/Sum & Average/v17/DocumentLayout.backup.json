@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Basic\\Sum \u0026 Average\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2100361-56F6-4FC0-A759-10E93D0B503E}|Sum \u0026 Average\\Sum \u0026 Average.csproj|e:\\c_sharp\\basic\\sum \u0026 average\\sum \u0026 average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2100361-56F6-4FC0-A759-10E93D0B503E}|Sum \u0026 Average\\Sum \u0026 Average.csproj|solutionrelative:sum \u0026 average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Basic\\Sum \u0026 Average\\Sum \u0026 Average\\Program.cs",
+              "RelativeDocumentMoniker": "Sum \u0026 Average\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Basic\\Sum \u0026 Average\\Sum \u0026 Average\\Program.cs",
+              "RelativeToolTip": "Sum \u0026 Average\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:07:30.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
