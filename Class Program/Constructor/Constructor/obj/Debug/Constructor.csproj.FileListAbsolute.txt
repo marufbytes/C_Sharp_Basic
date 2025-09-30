@@ -1,0 +1,7 @@
+E:\C_Sharp\Class\Constructor\Constructor\bin\Debug\Constructor.exe.config
+E:\C_Sharp\Class\Constructor\Constructor\bin\Debug\Constructor.exe
+E:\C_Sharp\Class\Constructor\Constructor\bin\Debug\Constructor.pdb
+E:\C_Sharp\Class\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+E:\C_Sharp\Class\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class\Constructor\Constructor\obj\Debug\Constructor.exe
+E:\C_Sharp\Class\Constructor\Constructor\obj\Debug\Constructor.pdb

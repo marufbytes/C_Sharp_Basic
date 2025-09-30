@@ -1,0 +1,8 @@
+E:\C_Sharp\Class Program\Shop Management\Shop Management\bin\Debug\Shop Management.exe.config
+E:\C_Sharp\Class Program\Shop Management\Shop Management\bin\Debug\Shop Management.exe
+E:\C_Sharp\Class Program\Shop Management\Shop Management\bin\Debug\Shop Management.pdb
+E:\C_Sharp\Class Program\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.AssemblyReference.cache
+E:\C_Sharp\Class Program\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class Program\Shop Management\Shop Management\obj\Debug\Shop Management.exe
+E:\C_Sharp\Class Program\Shop Management\Shop Management\obj\Debug\Shop Management.pdb
+E:\C_Sharp\Class Program\Shop Management\Shop Management\obj\Debug\Shop Management.exe.config

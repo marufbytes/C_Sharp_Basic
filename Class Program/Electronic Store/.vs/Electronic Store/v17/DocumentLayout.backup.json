@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB38429-6DC4-4C3F-9B52-0A9C77381F55}|Electronic Store\\Electronic Store.csproj|e:\\c_sharp\\mixed problem\\electronic store\\electronic store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB38429-6DC4-4C3F-9B52-0A9C77381F55}|Electronic Store\\Electronic Store.csproj|solutionrelative:electronic store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB38429-6DC4-4C3F-9B52-0A9C77381F55}|Electronic Store\\Electronic Store.csproj|e:\\c_sharp\\mixed problem\\electronic store\\electronic store\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB38429-6DC4-4C3F-9B52-0A9C77381F55}|Electronic Store\\Electronic Store.csproj|solutionrelative:electronic store\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB38429-6DC4-4C3F-9B52-0A9C77381F55}|Electronic Store\\Electronic Store.csproj|e:\\c_sharp\\mixed problem\\electronic store\\electronic store\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB38429-6DC4-4C3F-9B52-0A9C77381F55}|Electronic Store\\Electronic Store.csproj|solutionrelative:electronic store\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicProduct.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\Electronic Store\\ElectronicProduct.cs",
+              "RelativeDocumentMoniker": "Electronic Store\\ElectronicProduct.cs",
+              "ToolTip": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\Electronic Store\\ElectronicProduct.cs",
+              "RelativeToolTip": "Electronic Store\\ElectronicProduct.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:15:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\Electronic Store\\Product.cs",
+              "RelativeDocumentMoniker": "Electronic Store\\Product.cs",
+              "ToolTip": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\Electronic Store\\Product.cs",
+              "RelativeToolTip": "Electronic Store\\Product.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwD8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:22:53.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\Electronic Store\\Program.cs",
+              "RelativeDocumentMoniker": "Electronic Store\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Mixed Problem\\Electronic Store\\Electronic Store\\Program.cs",
+              "RelativeToolTip": "Electronic Store\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:21:55.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

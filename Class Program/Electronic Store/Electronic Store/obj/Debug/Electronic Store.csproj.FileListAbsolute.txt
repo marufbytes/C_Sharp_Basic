@@ -1,0 +1,8 @@
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\bin\Debug\Electronic Store.exe.config
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\bin\Debug\Electronic Store.exe
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\bin\Debug\Electronic Store.pdb
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\obj\Debug\Electronic Store.csproj.AssemblyReference.cache
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\obj\Debug\Electronic Store.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\obj\Debug\Electronic Store.exe
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\obj\Debug\Electronic Store.pdb
+E:\C_Sharp\Mixed Problem\Electronic Store\Electronic Store\obj\Debug\Electronic Store.exe.config

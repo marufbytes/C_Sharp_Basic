@@ -1,0 +1,8 @@
+E:\C_Sharp\Class\Lirbrary\Lirbrary\bin\Debug\Lirbrary.exe.config
+E:\C_Sharp\Class\Lirbrary\Lirbrary\bin\Debug\Lirbrary.exe
+E:\C_Sharp\Class\Lirbrary\Lirbrary\bin\Debug\Lirbrary.pdb
+E:\C_Sharp\Class\Lirbrary\Lirbrary\obj\Debug\Lirbrary.csproj.AssemblyReference.cache
+E:\C_Sharp\Class\Lirbrary\Lirbrary\obj\Debug\Lirbrary.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class\Lirbrary\Lirbrary\obj\Debug\Lirbrary.exe
+E:\C_Sharp\Class\Lirbrary\Lirbrary\obj\Debug\Lirbrary.pdb
+E:\C_Sharp\Class\Lirbrary\Lirbrary\obj\Debug\Lirbrary.exe.config

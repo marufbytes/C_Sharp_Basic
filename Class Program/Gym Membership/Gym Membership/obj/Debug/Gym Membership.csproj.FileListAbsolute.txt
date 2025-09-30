@@ -1,0 +1,7 @@
+E:\C_Sharp\Class\Gym Membership\Gym Membership\bin\Debug\Gym Membership.exe.config
+E:\C_Sharp\Class\Gym Membership\Gym Membership\bin\Debug\Gym Membership.exe
+E:\C_Sharp\Class\Gym Membership\Gym Membership\bin\Debug\Gym Membership.pdb
+E:\C_Sharp\Class\Gym Membership\Gym Membership\obj\Debug\Gym Membership.csproj.AssemblyReference.cache
+E:\C_Sharp\Class\Gym Membership\Gym Membership\obj\Debug\Gym Membership.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Class\Gym Membership\Gym Membership\obj\Debug\Gym Membership.exe
+E:\C_Sharp\Class\Gym Membership\Gym Membership\obj\Debug\Gym Membership.pdb

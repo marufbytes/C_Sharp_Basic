@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Class\\Student_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C62775D-BD35-40C4-8CB4-02E75A24EEAA}|Student_2\\Student_2.csproj|e:\\c_sharp\\class\\student_2\\student_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C62775D-BD35-40C4-8CB4-02E75A24EEAA}|Student_2\\Student_2.csproj|solutionrelative:student_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C62775D-BD35-40C4-8CB4-02E75A24EEAA}|Student_2\\Student_2.csproj|e:\\c_sharp\\class\\student_2\\student_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C62775D-BD35-40C4-8CB4-02E75A24EEAA}|Student_2\\Student_2.csproj|solutionrelative:student_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Class\\Student_2\\Student_2\\Student.cs",
+              "RelativeDocumentMoniker": "Student_2\\Student.cs",
+              "ToolTip": "E:\\C_Sharp\\Class\\Student_2\\Student_2\\Student.cs",
+              "RelativeToolTip": "Student_2\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:34:31.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Class\\Student_2\\Student_2\\Program.cs",
+              "RelativeDocumentMoniker": "Student_2\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Class\\Student_2\\Student_2\\Program.cs",
+              "RelativeToolTip": "Student_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:34:17.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

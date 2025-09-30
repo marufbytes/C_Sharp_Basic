@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|e:\\c_sharp\\inheritance\\employee mangement\\employee mangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|solutionrelative:employee mangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|E:\\C_Sharp\\Inheritance\\Employee Mangement\\employee mangement\\fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|solutionrelative:employee mangement\\fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|E:\\C_Sharp\\Inheritance\\Employee Mangement\\employee mangement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|solutionrelative:employee mangement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|E:\\C_Sharp\\Inheritance\\Employee Mangement\\employee mangement\\parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|solutionrelative:employee mangement\\parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|E:\\C_Sharp\\Inheritance\\Employee Mangement\\employee mangement\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8A75EB-8C6D-4FE7-8DF2-53A099B5F36F}|Employee Mangement\\Employee Mangement.csproj|solutionrelative:employee mangement\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\Intern.cs",
+              "RelativeDocumentMoniker": "Employee Mangement\\Intern.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\Intern.cs",
+              "RelativeToolTip": "Employee Mangement\\Intern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:45:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartTime.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\PartTime.cs",
+              "RelativeDocumentMoniker": "Employee Mangement\\PartTime.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\PartTime.cs",
+              "RelativeToolTip": "Employee Mangement\\PartTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:37:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTime.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\FullTime.cs",
+              "RelativeDocumentMoniker": "Employee Mangement\\FullTime.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\FullTime.cs",
+              "RelativeToolTip": "Employee Mangement\\FullTime.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:08:27.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee Mangement\\Employee.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\Employee.cs",
+              "RelativeToolTip": "Employee Mangement\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:00:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Mangement\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Employee Mangement\\Employee Mangement\\Program.cs",
+              "RelativeToolTip": "Employee Mangement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:58:22.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

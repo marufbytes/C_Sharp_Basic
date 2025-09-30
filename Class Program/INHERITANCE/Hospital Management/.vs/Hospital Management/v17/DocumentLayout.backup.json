@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp\\Inheritance\\Hospital Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09760AE-12B1-4032-89F2-10CB59ABB462}|Hospital Management\\Hospital Management.csproj|e:\\c_sharp\\inheritance\\hospital management\\hospital management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09760AE-12B1-4032-89F2-10CB59ABB462}|Hospital Management\\Hospital Management.csproj|solutionrelative:hospital management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09760AE-12B1-4032-89F2-10CB59ABB462}|Hospital Management\\Hospital Management.csproj|e:\\c_sharp\\inheritance\\hospital management\\hospital management\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09760AE-12B1-4032-89F2-10CB59ABB462}|Hospital Management\\Hospital Management.csproj|solutionrelative:hospital management\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09760AE-12B1-4032-89F2-10CB59ABB462}|Hospital Management\\Hospital Management.csproj|e:\\c_sharp\\inheritance\\hospital management\\hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09760AE-12B1-4032-89F2-10CB59ABB462}|Hospital Management\\Hospital Management.csproj|solutionrelative:hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Hospital Management\\Hospital Management\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital Management\\Patient.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Hospital Management\\Hospital Management\\Patient.cs",
+              "RelativeToolTip": "Hospital Management\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:26:50.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Hospital Management\\Hospital Management\\Person.cs",
+              "RelativeDocumentMoniker": "Hospital Management\\Person.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Hospital Management\\Hospital Management\\Person.cs",
+              "RelativeToolTip": "Hospital Management\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:08:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp\\Inheritance\\Hospital Management\\Hospital Management\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital Management\\Program.cs",
+              "ToolTip": "E:\\C_Sharp\\Inheritance\\Hospital Management\\Hospital Management\\Program.cs",
+              "RelativeToolTip": "Hospital Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:32:47.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

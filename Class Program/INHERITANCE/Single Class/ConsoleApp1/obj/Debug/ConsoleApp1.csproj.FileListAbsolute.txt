@@ -1,0 +1,8 @@
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\C_Sharp\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
